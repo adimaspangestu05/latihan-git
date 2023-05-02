@@ -1,12 +1,14 @@
+<!DOCTYPE html>
 <html>
-  
-  <h2> Profil saya </h2>
-  <p> Nama   : Adimas Pangestu </p>
-  <p> TTL    : Wonogiri,20 Januari 1999 </p>
-  <p> Umur   : 24 Tahun </p>
-  <p> Agama  : Islam </p>
-  <p> Alamat : Wuryantoro, Wonogiri </p>
-  <p> Hobbi  : Sepak bola </p>
-  
+<body>
+
+<h1>Profil saya</h1>
+
+<?php
+echo "Nama : Adimas Pangestu";
+echo "Umur : 24 tahun";
+echo "Asal : Wonogiri";
+?>
+
+</body>
 </html>
-  
